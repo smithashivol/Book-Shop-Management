@@ -4,7 +4,7 @@ public class Item{
     public int mrp;
     public  void addItem(String itemName,int mrpItem){
         this.itemName=itemName;
-        this.mrp=mrpItem;
+       this.mrp=mrpItem;
     }
 	public String getItemName() {
 		return itemName;
